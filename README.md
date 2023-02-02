@@ -1,4 +1,4 @@
-# Hoplite <img src="logo.png" height=40>
+# Hopplite <img src="logo.png" height=40>
 
 Hoplite is a Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way.
 Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files,
